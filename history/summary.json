@@ -26,10 +26,10 @@
     "slug": "cfb-staging",
     "status": "down",
     "uptime": "68.58%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "28.76%",
-    "uptimeYear": "56.39%",
+    "uptimeYear": "56.38%",
     "time": 1806,
     "timeDay": 1903,
     "timeWeek": 1992,
@@ -197,7 +197,7 @@
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 779,
-      "2026-07-28": 0
+      "2026-07-28": 81
     }
   }
 ]
