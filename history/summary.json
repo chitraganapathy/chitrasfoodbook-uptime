@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1798,
-    "timeDay": 2983,
-    "timeWeek": 2781,
-    "timeMonth": 2107,
-    "timeYear": 1850,
+    "time": 1800,
+    "timeDay": 2830,
+    "timeWeek": 2934,
+    "timeMonth": 2137,
+    "timeYear": 1853,
     "dailyMinutesDown": {
       "2026-01-31": 31
     }
@@ -24,17 +24,17 @@
     "url": "https://staging.chitrasfoodbook.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.chitrasfoodbook.com.ico",
     "slug": "cfb-staging",
-    "status": "up",
-    "uptime": "68.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "68.58%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.70%",
+    "uptimeMonth": "28.76%",
     "uptimeYear": "56.39%",
-    "time": 1805,
-    "timeDay": 1950,
-    "timeWeek": 2009,
+    "time": 1806,
+    "timeDay": 1903,
+    "timeWeek": 1992,
     "timeMonth": 1901,
-    "timeYear": 1871,
+    "timeYear": 1873,
     "dailyMinutesDown": {
       "2026-01-30": 531,
       "2026-01-31": 1364,
@@ -196,7 +196,8 @@
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
-      "2026-02-15": 779
+      "2026-02-15": 779,
+      "2026-07-28": 0
     }
   }
 ]
