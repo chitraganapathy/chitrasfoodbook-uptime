@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1843,
-    "timeDay": 2215,
-    "timeWeek": 2396,
-    "timeMonth": 2609,
-    "timeYear": 1912,
+    "time": 1846,
+    "timeDay": 2911,
+    "timeWeek": 2449,
+    "timeMonth": 2600,
+    "timeYear": 1915,
     "dailyMinutesDown": {
       "2026-01-31": 31
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.chitrasfoodbook.com.ico",
     "slug": "cfb-staging",
     "status": "down",
-    "uptime": "67.55%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "52.16%",
-    "uptimeMonth": "55.45%",
-    "uptimeYear": "52.68%",
-    "time": 1821,
-    "timeDay": 1847,
-    "timeWeek": 1935,
-    "timeMonth": 1896,
-    "timeYear": 1787,
+    "uptime": "67.49%",
+    "uptimeDay": "54.13%",
+    "uptimeWeek": "45.61%",
+    "uptimeMonth": "53.94%",
+    "uptimeYear": "52.55%",
+    "time": 1822,
+    "timeDay": 1854,
+    "timeWeek": 1911,
+    "timeMonth": 1891,
+    "timeYear": 1789,
     "dailyMinutesDown": {
       "2026-01-30": 531,
       "2026-01-31": 1364,
@@ -215,7 +215,8 @@
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 419,
-      "2026-08-22": 0
+      "2026-08-23": 68,
+      "2026-08-22": 592
     }
   }
 ]
